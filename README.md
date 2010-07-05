@@ -1,4 +1,4 @@
-Plugin Name
+Placeholder
 ===========
 
 A simple Mootools class to beauty your form similar to the Apple Store checkout form.
