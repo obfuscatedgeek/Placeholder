@@ -10,6 +10,8 @@ authors:
 requires:
 - Mootools Core 1.2.4
 
+provides : [Placeholder]
+
 
 ...
 */
